@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohitmittal10&label=Profile%20views&color=0e75b6&style=flat" alt="mohitmittal10" /> </p>
 
-- 🔭 I’m currently working on **MelodiaMix, a web application to play music**
+- 🔭 I’m currently working on **Trip Planner application**
 
 - 🌱 I’m currently learning **javascript, react.js**
 
-- 📫 How to reach me **mohitmittal2003@gmail.com**
+- 📫 How to reach me **mittalmohit2003@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
