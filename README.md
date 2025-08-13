@@ -1,11 +1,26 @@
 <h1 align="center">Hi 👋, I'm Mohit Mittal</h1>
-<h3 align="center">I'm a Computer Science undergraduate with hands-on experience in full-stack development, computer vision, and building real-world web applications. My journey includes internships at Celebal Technologies and Bluestock Fintech, where I developed production-ready applications like an E-commerce platform with payment integration, a shipment tracking system, and dynamic UIs for IPO analytics. I’ve also worked on innovative projects, including a smart traffic monitoring system built using YOLOv3 and OpenCV, which earned recognition at Smart India Hackathon 2024. I enjoy working in fast-paced environments where I can contribute from an early stage, collaborate across teams, and continuously learn by solving challenging problems. I’m particularly passionate about product-driven development, UI/UX, and AI-powered solutions-and I’m looking for opportunities where I can build impactful technology while growing as a developer.</h3>
+<div align="center">
+  <h3>CS Undergrad • Full-Stack Developer • Computer Vision</h3>
+  <p>
+    Internships at <b>Celebal Technologies</b> & <b>Bluestock Fintech</b>, building production-ready apps:
+    e-commerce with payment integration, shipment tracking, and dynamic IPO analytics UIs.
+  </p>
+  <p>
+    Built a smart traffic monitoring system using <b>YOLOv3</b> & <b>OpenCV</b>, recognized at
+    <b>Smart India Hackathon 2024</b>.
+  </p>
+  <p>
+    I thrive in fast-paced teams, love product-driven development, care deeply about UI/UX,
+    and enjoy shipping AI-powered solutions. Open to opportunities to build impactful tech while growing as a developer.
+  </p>
+</div>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohitmittal10&label=Profile%20views&color=0e75b6&style=flat" alt="mohitmittal10" /> </p>
 
-- 🔭 I’m currently working on **Portfolio website**
+- 🔭 I’m currently working on **GitHub=TikTok Web Application**
 
-- 🌱 I’m currently learning **javascript, react.js**
+- 🌱 I’m currently learning **javascript, react.js, GenAI**
 
 - 📫 How to reach me **mittalmohit2003@gmail.com**
 
